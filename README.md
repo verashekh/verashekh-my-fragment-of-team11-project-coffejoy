@@ -1,2 +1,1 @@
-# goit-markup-hw-06
-my-homework-06
+# verashekh/my-fragment-of-team11-project-coffejoy
